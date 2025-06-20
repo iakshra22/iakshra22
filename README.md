@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Akshra
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+<img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDh2bzdtYTZ2dWc0dXBoNjg0anRmMHF1ZnZldXFwd2V2bm1oMDYzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)" width="600"/>
 
 - 🎓 BTech CSE Student
 - 💻 I enjoy programming in C, C++, Python, and working with MySQL
