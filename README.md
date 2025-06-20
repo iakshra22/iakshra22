@@ -1,5 +1,7 @@
 # 👋 Hello! I'm Akshra
 
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+
 - 🎓 BTech CSE Student
 - 💻 I enjoy programming in C, C++, Python, and working with MySQL
 - 🌱 Currently learning: Python OOPs, MySQL, Data Structures
