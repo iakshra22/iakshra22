@@ -74,8 +74,4 @@
 
 ## 💖 Thanks for visiting my profile!
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iakshra22&color=purple&style=flat">
-</p>
-
 > 💬 _Feel free to reach out for collaboration, learning, or a quick tech talk!_
