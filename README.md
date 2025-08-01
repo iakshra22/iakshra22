@@ -1,39 +1,27 @@
-<!-- GitHub README.md -->
-
-<!-- 🧑‍💻 Animated Coding Girl GIF -->
-<p align="center">z
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="450"/>
+<!-- Header GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600"/>
 </p>
 
-<h1 align="center">
-  <span style="font-family:monospace; font-size: 35px;">
-    <span style="color:#a020f0;">A</span>
-    <span style="color:#a020f0;">k</span>
-    <span style="color:#a020f0;">s</span>
-    <span style="color:#a020f0;">h</span>
-    <span style="color:#a020f0;">r</span>
-    <span style="color:#a020f0;">a</span>
-  </span>
-</h1>
+<h1 align="center">Hi, I'm Akshra 👩‍💻</h1>
 
 <p align="center">
-  🚀 Passionate about building tech that makes life easier
+  <img src="https://komarev.com/ghpvc/?username=iakshra22&color=blue&style=flat-square" alt="profile views"/>
 </p>
 
 ---
 
-## 👩‍🎓 About Me
+### 🎯 About Me
 
-- 🎓 I'm a BTech CSE student with a focus on backend technologies and Python.
-- 💻 Skilled in C, C++, Python, MySQL, and data analytics.
-- 🌱 Currently sharpening my OOP concepts, SQL queries, and exploring Flask.
-- 📊 I enjoy solving problems and building projects that matter.
+💡 BTech Computer Science student with a strong interest in software development, data analytics, and problem-solving.  
+💻 Currently exploring Python OOP, MySQL, and Data Structures to build scalable and insightful applications.  
+🚀 Always curious to learn and eager to take on new challenges.  
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🚀 Tech Stack
 
-### 👩‍💻 Languages
+### 👩‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -42,7 +30,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧰 Libraries & Frameworks
+### 📚 Libraries & Frameworks
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ff69b4?style=for-the-badge)
@@ -53,7 +41,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Core ML](https://img.shields.io/badge/CoreML-black?style=for-the-badge&logo=apple&logoColor=white)
 
-### 🧪 Tools & IDEs
+### 🛠️ Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -61,7 +49,7 @@
 ![Dev C++](https://img.shields.io/badge/DevC++-blue?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 📊 Domains & Interests
+### 🧠 Domains of Interest
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-006699?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0099cc?style=for-the-badge)
 
@@ -69,16 +57,20 @@
 
 ## 📊 GitHub Stats
 
-![Akshra's GitHub stats](https://github-readme-stats.vercel.app/api?username=iakshra22&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iakshra22&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=iakshra22&theme=radical" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakshra22&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 ---
 
-## 🔗 Connect with Me
+## 🤝 Let's Connect
 
-- 📧 Email: [akshradang@gmail.com](mailto:akshradang@gmail.com)
-- 📸 Instagram: [@akshra.dang](https://www.instagram.com/akshra.dang)
-- 💼 LinkedIn: [Akshra Dang](https://www.linkedin.com/in/akshra-dang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i__akshra/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshradang@gmail.com)
 
 ---
 
-> “Code like a girl, dream like a queen.” 👑
+> 💬 _Feel free to reach out for collaboration, learning, or a quick tech talk!_
