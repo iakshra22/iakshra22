@@ -1,25 +1,27 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600"/>
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="100%" alt="Welcome Banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Akshra 👩‍💻</h1>
+<h2 align="center">Hey there, I'm <span style="color:#A020F0">Akshra</span> 👩‍💻</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iakshra22&color=blue&style=flat-square" alt="profile views"/>
+  <em>A passionate Computer Science student with a growing interest in data-driven development, intuitive design, and building projects that make a difference.</em>
 </p>
 
 ---
 
-### 🎯 About Me
+## 🚀 About Me
 
-💡 BTech Computer Science student with a strong interest in software development, data analytics, and problem-solving.  
-💻 Currently exploring Python OOP, MySQL, and Data Structures to build scalable and insightful applications.  
-🚀 Always curious to learn and eager to take on new challenges.  
+- 🎓 BTech CSE Student  
+- 🧠 Learning: Python OOPs, MySQL, Data Structures  
+- 🛠 Skilled in: C, C++, Python, MySQL, Web Tech  
+- 🌐 Exploring: APIs, Flask, Spring Boot (beginner level)  
+- 🧩 Fun fact: I debug more than I code... but that's where the magic happens.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tools & Technologies
 
 ### 👩‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -37,11 +39,9 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 ![Tkinter](https://img.shields.io/badge/Tkinter-%23ffcc00?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![RandomForest](https://img.shields.io/badge/RandomForest-228B22?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Core ML](https://img.shields.io/badge/CoreML-black?style=for-the-badge&logo=apple&logoColor=white)
 
-### 🛠️ Tools & IDEs
+### 🔧 Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -49,28 +49,35 @@
 ![Dev C++](https://img.shields.io/badge/DevC++-blue?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🧠 Domains of Interest
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-006699?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0099cc?style=for-the-badge)
-
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iakshra22&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=iakshra22&theme=radical" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakshra22&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iakshra22&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iakshra22&theme=radical" width="48%" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🔥 Contribution Heatmap
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i__akshra/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshradang@gmail.com)
+<p align="center">
+  <img src="https://github.com/iakshra22/iakshra22/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;" />
+</p>
 
 ---
 
-> 💬 _Feel free to reach out for collaboration, learning, or a quick tech talk!_
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:akshradang@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/akshra-dang/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/i.akshra/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <em>✨ "Code is like humor. When you have to explain it, it’s bad." ✨</em>
+</p>
