@@ -65,12 +65,27 @@
 
 ---
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iakshra22&theme=react-dark&bg_color=0d1117&color=9feaf9&line=9feaf9&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i__akshra/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshradang@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AkshraDang)
 
 ---
+
+## 💖 Thanks for visiting my profile!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iakshra22&color=purple&style=flat">
+</p>
 
 > 💬 _Feel free to reach out for collaboration, learning, or a quick tech talk!_
