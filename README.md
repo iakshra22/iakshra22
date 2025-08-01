@@ -63,16 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakshra22&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iakshra22&theme=react-dark&bg_color=0d1117&color=9feaf9&line=9feaf9&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
