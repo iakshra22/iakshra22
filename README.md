@@ -1,7 +1,7 @@
 <!-- GitHub README.md -->
 
 <!-- 🧑‍💻 Animated Coding Girl GIF -->
-<p align="center">
+<p align="center">z
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="450"/>
 </p>
 
