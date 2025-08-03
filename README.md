@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600"/>
+<img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="600"/>
 </p>
 
 <h1 align="center">Hi, I'm Akshra 👩‍💻</h1>
