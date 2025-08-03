@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Tools and Technologies i use;
+## 🚀 Tools and Technologies I Use;
 
 ### 👩‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
