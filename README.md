@@ -54,10 +54,9 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0099cc?style=for-the-badge)
 
 ---
-
 ## 📈 Contribution Activity
 
-[![Akshra's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=iakshra22&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Akshra's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=iakshra22&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
