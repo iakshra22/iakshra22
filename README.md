@@ -16,6 +16,8 @@
 💡 BTech Computer Science student with a strong interest in software development, data analytics, and problem-solving.  
 💻 Currently exploring Python OOP, MySQL, and Data Structures to build scalable and insightful applications.  
 🚀 Always curious to learn and eager to take on new challenges.  
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 ---
 
