@@ -1,9 +1,7 @@
-<!-- Header GIF -->
+<!-- Header SVG Typing Animation -->
 <p align="center">
-<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="600"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Akshra+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </p>
-
-<h1 align="center">Hi, I'm Akshra 👩‍💻</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iakshra22&color=blue&style=flat-square" alt="profile views"/>
@@ -13,11 +11,14 @@
 
 ### 🎯 About Me
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=400&lines=BTech+Computer+Science+Student;Python+%7C+MySQL+%7C+OOP+Lover;Always+learning+something+new!+%F0%9F%8C%9F" alt="Typing About Me" />
+</p>
+
 💡 BTech Computer Science student with a strong interest in software development, data analytics, and problem-solving.  
 💻 Currently exploring Python OOP, MySQL, and Data Structures to build scalable and insightful applications.  
 🚀 Always curious to learn and eager to take on new challenges.  
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 
 ---
 
@@ -56,6 +57,13 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0099cc?style=for-the-badge)
 
 ---
+
+## 💡 Fun Fact or Quote
+> _"Sometimes the best code is no code at all."_ – Jeff Atwood 👩‍💻  
+> _Fun Fact: I love turning coffee into code ☕💻_
+
+---
+
 ## 📈 Contribution Activity
 
 [![Akshra's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=iakshra22&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -70,11 +78,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakshra22&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iakshra22&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies">
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i__akshra/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AkshraDang)
+[![LinkedIn 👩‍💼](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
+[![Instagram 📸](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i__akshra/)
+[![Twitter 🐦](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AkshraDang)
+[![Email 📬](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshra@example.com)
 
 ---
 
