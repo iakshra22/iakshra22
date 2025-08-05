@@ -81,7 +81,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iakshra22&theme=algolia&no-frame=true&margin-w=13&margin-h=13&column=3" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iakshra22&theme=algolia&no-frame=true&margin-w=8&margin-h=8&column=2" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -103,7 +103,7 @@
   
 ## 💖 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=iakshra22&color=bluevoilet&style=for-the-badge&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=iakshra22&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
 > 💬 _Feel free to reach out for collaboration, learning, or a quick tech talk!_
 </div>
