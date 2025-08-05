@@ -17,12 +17,8 @@
 💻 Currently exploring OOP, MySQL, and Data Structures to build scalable and insightful applications.  
 🚀 Always curious to learn and eager to take on new challenges.  
 
-<p align="center">
-  <!-- 🔁 Replaced MIT license with profile bio badges -->
-  <img src="https://img.shields.io/badge/Student-BTech-informational?style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hackathon-Participant-ff69b4?style=for-the-badge" />
-</p>
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 ---
 
@@ -114,7 +110,7 @@
     <img src="https://img.shields.io/badge/-Let's%20Collaborate!-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Me">
   </a>
 </p>
----
+
 
   
 ## 💖 Thanks for visiting my profile!
