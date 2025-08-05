@@ -8,7 +8,7 @@
 ### 🎯 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=400&lines=BTech+Computer+Science+Student;Python+%7C+MySQL+%7C+OOP+Lover;Always+learning+something+new!+%F0%9F%8C%9F" alt="Typing About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=400&lines=BTech+Computer+Science+Student;JAVA+%7C+MySQL+%7C+DSA+Lover;Always+learning+something+new!+%F0%9F%8C%9F" alt="Typing About Me" />
 </p>
 
 💡 BTech Computer Science student with a strong interest in software development, data analytics, and problem-solving.  
@@ -16,13 +16,6 @@
 🚀 Always curious to learn and eager to take on new challenges.  
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
----
-
-## 🐍 Metro-style Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iakshra22/iakshra22/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid snake animation" />
-</p>
 
 ---
 
@@ -103,6 +96,4 @@
 
 ## 💖 Thanks for visiting my profile!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&duration=3000&pause=1000&color=E964F5&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Happy+Coding+💜" alt="Thank You Typing" />
-</p>
+> 💬 _Feel free to reach out for collaboration, learning, or a quick tech talk!_
