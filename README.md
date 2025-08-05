@@ -95,13 +95,15 @@
 [![Email 📬](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshra@example.com)
 
 </div>
+
+
 ---
 
 <div align="center">
   
 ## 💖 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=iakshra22&color=orchid&style=for-the-badge&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=iakshra22&color=bluevoilet&style=for-the-badge&label=Profile+Views"/>
 
 > 💬 _Feel free to reach out for collaboration, learning, or a quick tech talk!_
 </div>
