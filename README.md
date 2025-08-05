@@ -81,7 +81,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iakshra22&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=iakshra22&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
 </p>
 
 ---
