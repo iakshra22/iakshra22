@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=BTech+Computer+Science+Student;JAVA+%7C+MySQL+%7C+DSA+Lover;Always+learning+something+new!+%F0%9F%8C%9F" alt="Typing About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=BTech+CSE+2nd+Year+Student;JAVA+%7C+MySQL+%7C+DSA+Lover;Always+learning+something+new!+%F0%9F%8C%9F" alt="Typing About Me" />
 </p>
 
 ### 🎯 About Me
