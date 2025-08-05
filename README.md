@@ -1,10 +1,10 @@
 <!-- Header SVG Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Akshra+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB; Welcome+to+my+GitHub+Profile " alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Akshra+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iakshra22&color=blue&style=flat-square" alt="profile views"/>
+![Profile Views](https://img.shields.io/badge/Profile%20Views-🔍%20200-blue?style=flat-square)
 </p>
 
 ---
