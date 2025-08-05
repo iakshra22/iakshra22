@@ -5,6 +5,15 @@
 
 ---
 
+
+### 🐍 Contribution Snake Animation
+
+<div align="center">
+  
+![Snake Game](https://raw.githubusercontent.com/ikeshav26/ikeshav26/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ### 🎯 About Me
 
 <p align="center">
