@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Typing Welcome Line" />
 </p>
 
-<!-- Profile Views (non-broken badge) -->
-<p align="center">
-  ![Profile Views](https://img.shields.io/badge/Profile%20Views-🔍%20200-blue?style=flat-square)
-</p>
-
 ---
 
 ### 🎯 About Me
