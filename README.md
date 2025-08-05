@@ -17,8 +17,12 @@
 💻 Currently exploring OOP, MySQL, and Data Structures to build scalable and insightful applications.  
 🚀 Always curious to learn and eager to take on new challenges.  
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
+<p align="center">
+  <!-- 🔁 Replaced MIT license with profile bio badges -->
+  <img src="https://img.shields.io/badge/Student-BTech-informational?style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hackathon-Participant-ff69b4?style=for-the-badge" />
+</p>
 
 ---
 
@@ -75,6 +79,10 @@
   <img src="https://streak-stats.demolab.com?user=iakshra22&theme=radical" alt="Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakshra22&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+<!-- 🧊 DevCard / Futuristic GitHub Profile -->
+<p align="center">
+  <img src="https://github.com/iakshra22/iakshra22/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
@@ -99,7 +107,13 @@
 [![Twitter 🐦](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AkshraDang)
 </div>
 
+## 💌 Open to Learning & Contribution
 
+<p align="center">
+  <a href="mailto:akshradang22@gmail.com">
+    <img src="https://img.shields.io/badge/-Let's%20Collaborate!-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Me">
+  </a>
+</p>
 ---
 
   
