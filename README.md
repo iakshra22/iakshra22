@@ -5,6 +5,8 @@
 
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=iakshra22&color=8A2BE2&style=flat-square&label=👀+Profile+Views"/>
+
 ### 🎯 About Me
 💡 BTech Computer Science student with a strong interest in Web development, data analytics, and problem-solving.  
 💻 Currently exploring OOP, MySQL, and Data Structures to build scalable and insightful applications.  
@@ -50,8 +52,8 @@
 ---
 
 ## 💡 Fun Fact or Quote
-> _"Sometimes the best code is no code at all."_ – Jeff Atwood 👩‍💻  
-> _Fun Fact: I love turning coffee into code ☕💻_
+> _"Some connections don't throw errors — they just stop responding. — Dev Mishra, Backend Dev & Blogger" 👩‍💻  
+> _Fun Fact: Expectations rakhne ki gndi aadat h...kabhi kabhi lgta hai error khud hi solve ho jaayega 🫠💭_
 
 ---
 
@@ -133,7 +135,6 @@
 ---
 
 ## 🤝 Let's Connect
-<div align="center">
   
 [![LinkedIn 👩‍💼](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
 [![Instagram 📸](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i__akshra/)
@@ -151,8 +152,4 @@
 
   
 ## 💖 Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=iakshra22&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-
 > 💬 _Feel free to reach out for collaboration, learning, or a quick tech talk!_
-</div>
