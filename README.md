@@ -142,8 +142,6 @@
 </div>
 
 ## 💌 Open to Learning & Contribution
-
-<p align="center">
   <a href="mailto:akshradang22@gmail.com">
     <img src="https://img.shields.io/badge/-Let's%20Collaborate!-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Me">
   </a>
