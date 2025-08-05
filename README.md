@@ -1,17 +1,18 @@
 <div align="center">
 
-  <!-- 👇 Typing Animation under Name with Colored Line -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=000000&vCenter=true&width=600&lines=Hi%2C+I'm+Akshra+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-
-  <!-- 👇 Snake Animation -->
-  ![Snake Game](https://raw.githubusercontent.com/ikeshav26/ikeshav26/output/github-contribution-grid-snake-dark.svg)
+  <!-- 👇 Typing Animation under Name -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=B36AE2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akshra+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
   <!-- 👇 Stylish Banner or Robot GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 
+  <!-- 👇 Snake Animation -->
+  ![Snake Game](https://raw.githubusercontent.com/ikeshav26/ikeshav26/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
+
 
 ### 🎯 About Me
 
