@@ -62,6 +62,42 @@
 
 ---
 
+## 📜 My Certifications
+
+### 🤖 Certification of AI-CHATBOT in 60 Minutes  
+[![View Certificate](https://img.shields.io/badge/View-Certificate-purple?style=for-the-badge&logo=readthedocs)](./certificates/ai%20chatbot.pdf)
+
+---
+
+### 💻 Certification of C++ by Udemy  
+[![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge&logo=readthedocs)](./certificates/c%2B%2B%20cerrtifictae%20(udemy).pdf)
+
+---
+
+### 🧠 Certification of C++ by Infosys  
+[![View Certificate](https://img.shields.io/badge/View-Certificate-green?style=for-the-badge&logo=readthedocs)](./certificates/c%2B%2B%20infosys.pdf)
+
+---
+
+### 🧪 Certification of Internship Test by iStudio  
+[![View Certificate](https://img.shields.io/badge/View-Certificate-red?style=for-the-badge&logo=readthedocs)](./certificates/istudio%20internship%20test.pdf)
+
+---
+
+### ☕ Certification of 2 Days Masterclass in JAVA by CETPA  
+[![View Certificate](https://img.shields.io/badge/View-Certificate-orange?style=for-the-badge&logo=readthedocs)](./certificates/java%20cetpa.pdf)
+
+---
+
+### 🐍 Certification of 2 Days Masterclass in PYTHON by CETPA  
+[![View Certificate](https://img.shields.io/badge/View-Certificate-yellow?style=for-the-badge&logo=readthedocs)](./certificates/python%20cetpa.pdf)
+
+---
+
+### 🧾 Certification of Submitting Research Paper  
+[![View Certificate](https://img.shields.io/badge/View-Certificate-black?style=for-the-badge&logo=readthedocs)](./certificates/risen%20certificate.pdf)
+
+
 ## 📈 Contribution Activity
 
 [![Akshra's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=iakshra22&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
