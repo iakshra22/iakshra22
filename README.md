@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2>Hi there, I'm Akshra 👩‍💻, Welcome to my GitHub profile!</h2>
+  <h2>Hi there, I'm Akshra 👩‍💻. Welcome to my GitHub profile!</h2>
 
 </div>
 
