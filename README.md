@@ -1,24 +1,18 @@
-<!-- Header SVG Typing Animation -->
+<!-- Header Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Akshra+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Akshra+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG Name" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Typing Welcome Line" />
 </p>
 
-<a href="https://github.com/iakshra22">
-  <img src="https://github.com/AkshraDang/3d-contrib/blob/main/3d.gif?raw=true" width="100%" />
-</a>
-
-
+<!-- Profile Views (non-broken badge) -->
 <p align="center">
-![Profile Views](https://img.shields.io/badge/Profile%20Views-🔍%20200-blue?style=flat-square)
+  ![Profile Views](https://img.shields.io/badge/Profile%20Views-🔍%20200-blue?style=flat-square)
 </p>
 
 ---
 
 ### 🎯 About Me
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=400&lines=BTech+Computer+Science+Student;Python+%7C+MySQL+%7C+OOP+Lover;Always+learning+something+new!+%F0%9F%8C%9F" alt="Typing About Me" />
-</p>
 
 💡 BTech Computer Science student with a strong interest in software development, data analytics, and problem-solving.  
 💻 Currently exploring Python OOP, MySQL, and Data Structures to build scalable and insightful applications.  
@@ -27,7 +21,7 @@
 
 ---
 
-## 🚀 Tools and Technologies I Use;
+## 🚀 Tools and Technologies I Use
 
 ### 👩‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -63,25 +57,9 @@
 
 ---
 
-## 💡 Fun Fact or Quote
+## 💡 Fun Quote
 > _"Sometimes the best code is no code at all."_ – Jeff Atwood 👩‍💻  
 > _Fun Fact: I love turning coffee into code ☕💻_
-
----
-
-## 📈 Contribution Activity
-
-[![Akshra's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=iakshra22&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iakshra22&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=iakshra22&theme=radical" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakshra22&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
 ---
 
@@ -93,15 +71,9 @@
 
 ---
 
-## 🤝 Let's Connect
+## 🛤️ Contribution Animation (Metro Style)
 
-[![LinkedIn 👩‍💼](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
-[![Instagram 📸](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i__akshra/)
-[![Twitter 🐦](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AkshraDang)
-[![Email 📬](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshra@example.com)
+> *Inspired by the snake animation, but cleaner!*
 
----
-
-## 💖 Thanks for visiting my profile!
-
-> 💬 _Feel free to reach out for collaboration, learning, or a quick tech talk!_
+```markdown
+![Akshra’s Metro Train](https://github.com/iakshra22/iakshra22/blob/output/github-contribution-grid-snake.svg)
