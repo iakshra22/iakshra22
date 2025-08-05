@@ -75,10 +75,6 @@
   <img src="https://streak-stats.demolab.com?user=iakshra22&theme=radical" alt="Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakshra22&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-<!-- 🧊 DevCard / Futuristic GitHub Profile -->
-<p align="center">
-  <img src="https://github.com/iakshra22/iakshra22/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
