@@ -97,4 +97,6 @@
 
 ## 💖 Thanks for visiting my profile!
 
+<img src="https://komarev.com/ghpvc/?username=iakshra22&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+
 > 💬 _Feel free to reach out for collaboration, learning, or a quick tech talk!_
