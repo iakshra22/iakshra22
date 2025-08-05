@@ -14,6 +14,7 @@
 💡 BTech Computer Science student with a strong interest in software development, data analytics, and problem-solving.  
 💻 Currently exploring Python OOP, MySQL, and Data Structures to build scalable and insightful applications.  
 🚀 Always curious to learn and eager to take on new challenges.  
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
@@ -34,9 +35,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ff69b4?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 ![Tkinter](https://img.shields.io/badge/Tkinter-%23ffcc00?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![RandomForest](https://img.shields.io/badge/RandomForest-228B22?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Core ML](https://img.shields.io/badge/CoreML-black?style=for-the-badge&logo=apple&logoColor=white)
