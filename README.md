@@ -5,14 +5,11 @@
 </div>
 
 ### 🎯 About Me
-💡 BTech Computer Science student with a strong interest in Web development, data analytics, and problem-solving.  
-💻 Currently exploring OOP, MySQL, and Data Structures to build scalable and insightful applications.  
+💡 BTech Computer Science student with a strong interest in Web development and problem-solving.  
+💻 Currently exploring OOPS, MySQL, and Data Structures to build scalable and insightful applications.  
 🚀 Always curious to learn and eager to take on new challenges.  
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-
-
 ---
 
 <img src="https://komarev.com/ghpvc/?username=iakshra22&color=8A2BE2&style=flat-square&label=👀+Profile+Views"/>
@@ -35,19 +32,12 @@
 ![Tkinter](https://img.shields.io/badge/Tkinter-%23ffcc00?style=for-the-badge)
 ![RandomForest](https://img.shields.io/badge/RandomForest-228B22?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Core ML](https://img.shields.io/badge/CoreML-black?style=for-the-badge&logo=apple&logoColor=white)
 
 ### 🛠️ Tools & IDEs
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Dev C++](https://img.shields.io/badge/DevC++-blue?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🧠 Domains of Interest
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-006699?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0099cc?style=for-the-badge)
 
 ---
 
