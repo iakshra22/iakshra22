@@ -7,17 +7,14 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 
   <!-- 👇 Snake Animation -->
-  ![Snake Game](https://raw.githubusercontent.com/ikeshav26/ikeshav26/output/github-contribution-grid-snake-dark.svg)
+  ![Snake Game](https://raw.githubusercontent.com/iakshra22/iakshra22/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+### 🎯 About Me
 
-<!-- 👇 About Me Section with White Text -->
-<h2 style="color:white;" align="center">About Me</h2>
-<p style="color:white;" align="center">
-  I'm a passionate coder, tech enthusiast, and always eager to learn new things.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=BTech+Computer+Science+Student;JAVA+%7C+MySQL+%7C+DSA+Lover;Always+learning+something+new!+%F0%9F%8C%9F" alt="Typing About Me" />
 </p>
-
-
 
 ### 🎯 About Me
 
