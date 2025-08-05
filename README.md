@@ -81,22 +81,27 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iakshra22&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=iakshra22&theme=algolia&no-frame=true&margin-w=13&margin-h=13&column=3" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ## 🤝 Let's Connect
-
+<div align="center">
+  
 [![LinkedIn 👩‍💼](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
 [![Instagram 📸](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i__akshra/)
 [![Twitter 🐦](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AkshraDang)
 [![Email 📬](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshra@example.com)
 
+</div>
 ---
 
+<div align="center">
+  
 ## 💖 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=iakshra22&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=iakshra22&color=orchid&style=for-the-badge&label=Profile+Views"/>
 
 > 💬 _Feel free to reach out for collaboration, learning, or a quick tech talk!_
+</div>
