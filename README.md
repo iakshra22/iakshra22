@@ -66,8 +66,8 @@
 
 > Here's a list of my verified technical certifications in development, AI, programming, and research.
 
-### 🤖 Certification of AI-CHATBOT in 60 Minutes  
-[![View Certificate](https://img.shields.io/badge/View-Certificate-purple?style=for-the-badge&logo=readthedocs)](./certificates/ai%20chatbot.pdf)
+### 🔧 Certification of C Programming by Simplilearn | SkillUp  
+[![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge&logo=simplilearn)](https://simpli.app.link/5ZfD1kpNAVb)
 
 ---
 
@@ -95,6 +95,16 @@
 [![View Certificate](https://img.shields.io/badge/View-Certificate-yellow?style=for-the-badge&logo=readthedocs)](./certificates/python%20cetpa.pdf)
 
 ---
+
+### 🛢️ Certification of MySQL by Simplilearn | SkillUp  
+[![View Certificate](https://img.shields.io/badge/View-Certificate-orange?style=for-the-badge&logo=simplilearn)](https://simpli.app.link/ArDXUidNAVb)
+
+---
+
+### 🤖 Certification of AI-CHATBOT in 60 Minutes  
+[![View Certificate](https://img.shields.io/badge/View-Certificate-purple?style=for-the-badge&logo=readthedocs)](./certificates/ai%20chatbot.pdf)
+
+--- 
 
 ### 🧾 Certification of Submitting Research Paper  
 [![View Certificate](https://img.shields.io/badge/View-Certificate-black?style=for-the-badge&logo=readthedocs)](./certificates/risen%20certificate.pdf)
