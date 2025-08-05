@@ -62,7 +62,9 @@
 
 ---
 
-## 📜 My Certifications
+## 🏆 My Certifications & Achievements
+
+> Here's a list of my verified technical certifications in development, AI, programming, and research.
 
 ### 🤖 Certification of AI-CHATBOT in 60 Minutes  
 [![View Certificate](https://img.shields.io/badge/View-Certificate-purple?style=for-the-badge&logo=readthedocs)](./certificates/ai%20chatbot.pdf)
