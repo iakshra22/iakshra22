@@ -1,11 +1,8 @@
 <div align="center">
 
-  <h2>Hi there, I'm Akshra 👩‍💻</h2>
-  <h3>Welcome to my GitHub profile!</h3>
+  <h2>Hi there, I'm Akshra 👩‍💻, Welcome to my GitHub profile!</h2>
 
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=iakshra22&color=8A2BE2&style=flat-square&label=👀+Profile+Views"/>
 
 ### 🎯 About Me
 💡 BTech Computer Science student with a strong interest in Web development, data analytics, and problem-solving.  
@@ -15,7 +12,10 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
+
 ---
+
+<img src="https://komarev.com/ghpvc/?username=iakshra22&color=8A2BE2&style=flat-square&label=👀+Profile+Views"/>
 
 ## 🚀 Tools and Technologies I Use
 
