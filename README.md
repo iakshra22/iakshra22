@@ -6,9 +6,6 @@
   <!-- 👇 Stylish Banner or Robot GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 
-  <!-- 👇 Snake Animation -->
-  ![Snake Game](https://raw.githubusercontent.com/iakshra22/iakshra22/output/github-contribution-grid-snake-dark.svg)
-
 </div>
 ### 🎯 About Me
 
@@ -17,13 +14,6 @@
 </p>
 
 ### 🎯 About Me
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=#FFFFFF&center=true&vCenter=true&width=400&lines=BTech+Computer+Science+Student;JAVA+%7C+MySQL+%7C+DSA+Lover;Always+learning+something+new!+%F0%9F%8C%9F" alt="Typing About Me" />
-</p>
-
-
-
 💡 BTech Computer Science student with a strong interest in Web development, data analytics, and problem-solving.  
 💻 Currently exploring OOP, MySQL, and Data Structures to build scalable and insightful applications.  
 🚀 Always curious to learn and eager to take on new challenges.  
