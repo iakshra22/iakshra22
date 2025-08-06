@@ -94,6 +94,14 @@
 ### 🧾 Certification of Submitting Research Paper  
 [![View Certificate](https://img.shields.io/badge/View-Certificate-black?style=for-the-badge&logo=readthedocs)](./certificates/risen%20certificate.pdf)
 
+---
+
+### 📝 Offer Letters
+
+[![View CodSoft Offer Letter](https://img.shields.io/badge/View-CodSoft_Offer_Letter-black?style=for-the-badge&logo=readthedocs)](./certificates/codsoft%20offer%20letter.pdf)
+
+[![View Oasis Infobyte Offer Letter](https://img.shields.io/badge/View-Oasis_Infobyte_Offer_Letter-black?style=for-the-badge&logo=readthedocs)](./certificates/oasis%20infobyte%20offer%20letter.pdf)
+
 
 ## 📈 Contribution Activity
 
