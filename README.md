@@ -128,7 +128,7 @@
   />
 </div>
 
-## 📱 Scan to view my LinkIn
+## 📱 Scan to view my LinkedIn 
 [![LinkedIn QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://www.linkedin.com/in/akshra-dang-aa0648321/)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
 
 
