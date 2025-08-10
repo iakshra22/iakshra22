@@ -128,8 +128,9 @@
   />
 </div>
 
-## 📱 Scan to view my GitHub
-[![GitHub QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/iakshra22)](https://github.com/iakshra22)
+## 📱 Scan to view my LinkIn
+[![LinkedIn QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://www.linkedin.com/in/akshra-dang-aa0648321/)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
+
 
 
 ---
