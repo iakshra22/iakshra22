@@ -128,6 +128,8 @@
   />
 </div>
 
+## 📱 Scan to view my GitHub
+[![GitHub QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/iakshra22)](https://github.com/iakshra22)
 
 
 ---
@@ -139,9 +141,6 @@
 [![Twitter 🐦](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AkshraDang)
 </div>
 
-## 🌍 Visitors Map
-[![Visitors Map](https://flagcdn.com/w320/in.png)](https://info.flagcounter.com/)  
-![Visitor Count](https://profile-counter.glitch.me/iakshra22/count.svg)
 
 ## 💌 Open to Learning & Contribution
   <a href="mailto:akshradang22@gmail.com">
