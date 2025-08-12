@@ -5,9 +5,9 @@
 </div>
 
 ### 🎯 About Me
-💡 A passionate tech learner in the second year of B.Tech Computer Science, building a strong base across multiple programming languages and tools.
-💻 Currently expanding my skill set and exploring modern web development technologies to build interactive and scalable applications.
-🚀 Constantly experimenting with projects, sharpening problem-solving skills, and moving towards more advanced, industry-relevant development practices. 
+💡 BTech Computer Science 2nd year student with a strong interest in Web development and problem-solving.
+💻 Currently exploring Multi-Stack Development.  
+🚀 Always curious to learn and eager to take on new challenges.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ---
