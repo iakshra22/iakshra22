@@ -92,7 +92,7 @@
 --- 
 
 ### 🧾 Certification of Submitting Research Paper  
-[![View Certificate](https://img.shields.io/badge/View-Certificate-black?style=for-the-badge&logo=readthedocs)](./certificates/risen%20certificate.pdf)
+[![View Certificate](https://img.shields.io/badge/View-Certificate-yellow?style=for-the-badge&logo=readthedocs)](./certificates/risen%20certificate.pdf)
 
 ---
 
