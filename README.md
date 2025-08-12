@@ -5,9 +5,8 @@
 </div>
 
 ### 🎯 About Me
-💡 BTech Computer Science 2nd year student with a strong interest in Web development and problem-solving.
-
-💻 Currently exploring Multi-Stack Development.  
+💡 BTech Computer Science 2nd year student with a strong interest in Web development and problem-solving.              
+💻 Currently exploring Multi-Stack Development.              
 🚀 Always curious to learn and eager to take on new challenges.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
