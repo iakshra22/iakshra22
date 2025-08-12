@@ -5,9 +5,9 @@
 </div>
 
 ### 🎯 About Me
-💡 BTech Computer Science student with a strong interest in Web development and problem-solving.  
-💻 Currently exploring OOPS, MySQL, and Data Structures to build scalable and insightful applications.  
-🚀 Always curious to learn and eager to take on new challenges.  
+💡 A passionate tech learner in the second year of B.Tech Computer Science, building a strong base across multiple programming languages and tools.
+💻 Currently expanding my skill set and exploring modern web development technologies to build interactive and scalable applications.
+🚀 Constantly experimenting with projects, sharpening problem-solving skills, and moving towards more advanced, industry-relevant development practices. 
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ---
