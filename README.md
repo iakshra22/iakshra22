@@ -105,7 +105,7 @@
 
 ## 📈 Contribution Activity
 
-[![Akshra's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=iakshra22&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=iakshra22&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📊 GitHub Stats
 
