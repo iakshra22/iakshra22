@@ -1,10 +1,6 @@
 <div align="center">
 
   <h2>Hi there, I'm Akshra 👩‍💻. Welcome to my GitHub profile!</h2>
-
-  <!-- Terminal Typing Animation -->
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=%24+Akshra+coding...;Full+Stack+Developer+in+progress;Always+learning+new+things!+🚀)
-
 </div>
 
 ---
