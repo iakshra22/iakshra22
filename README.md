@@ -113,11 +113,9 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-b39c6e09-89c0-4a55-b8f4-0d34bb5b8a68.gif" width="100%"/>
-
 ## 💼 Internship Experience
-- 👩‍💻 **CodSoft** – Worked on real-world projects in AI and development.  
-- 🚀 **Oasis Infobyte** – Internship focused on Python, ML, and problem-solving.  
+- 👩‍💻 **CodSoft** – Worked on real-world projects in C++.  
+- 🚀 **Oasis Infobyte** – Internship focused on JAVA and problem-solving.  
 
 ---
 
