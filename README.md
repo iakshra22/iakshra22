@@ -2,7 +2,14 @@
 
   <h2>Hi there, I'm Akshra 👩‍💻. Welcome to my GitHub profile!</h2>
 
+  <!-- Terminal Typing Animation -->
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=%24+Akshra+coding...;Full+Stack+Developer+in+progress;Always+learning+new+things!+🚀)
+
 </div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-b39c6e09-89c0-4a55-b8f4-0d34bb5b8a68.gif" width="100%"/>
 
 ### 🎯 About Me 
 💡 BTech Computer Science 2nd year student with a strong interest in Web development and problem-solving.              
@@ -15,45 +22,40 @@
 
 <img src="https://komarev.com/ghpvc/?username=iakshra22&color=8A2BE2&style=flat-square&label=👀+Profile+Views"/>
 
+---
+
 ## 🚀 Tools and Technologies I Use
 
 ### 👩‍💻 Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,mysql&theme=light" />
 
 ### 📚 Libraries & Frameworks
+<img src="https://skillicons.dev/icons?i=flask&theme=light" />  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ff69b4?style=for-the-badge)
 ![Tkinter](https://img.shields.io/badge/Tkinter-%23ffcc00?style=for-the-badge)
 ![RandomForest](https://img.shields.io/badge/RandomForest-228B22?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🛠️ Tools & IDEs
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Dev C++](https://img.shields.io/badge/DevC++-blue?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 💡 Fun Fact or Quote
-> _"Some connections don't throw errors — they just stop responding. — Dev Mishra, Backend Dev & Blogger" 👩‍💻  
-> _Fun Fact: Expectations rakhne ki gndi aadat h...kabhi kabhi lgta hai error khud hi solve ho jaayega 🫠💭_
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,github,git,jupyter&theme=light" />
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-b39c6e09-89c0-4a55-b8f4-0d34bb5b8a68.gif" width="100%"/>
 
+## 💡 Fun Fact or Quote
+> _"Some connections don't throw errors — they just stop responding. — Dev Mishra, Backend Dev & Blogger" 👩‍💻_  
+> _Fun Fact: Expectations rakhne ki gndi aadat h...kabhi kabhi lgta hai error khud hi solve ho jaayega 🫠💭_
+
+---
+
 ## 🏆 My Certifications & Achievements
 
 <details>
 <summary>📜 Click to View Certifications</summary>
+
+<img src="https://media.giphy.com/media/3ohc1h1sQ8b1xL3ZBS/giphy.gif" width="100%"/>
 
 ### 🔧 Certification of C Programming by Simplilearn | SkillUp  
 [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge&logo=simplilearn)](https://simpli.app.link/5ZfD1kpNAVb)
@@ -105,6 +107,8 @@
 <details>
 <summary>📝 Offer Letters</summary>
 
+<img src="https://media.giphy.com/media/l0HlPjezGYt4z8ZSw/giphy.gif" width="100%"/>
+
 [![View CodSoft Offer Letter](https://img.shields.io/badge/View-CodSoft_Offer_Letter-black?style=for-the-badge&logo=readthedocs)](./certificates/codsoft%20offer%20letter.pdf)  
 
 [![View Oasis Infobyte Offer Letter](https://img.shields.io/badge/View-Oasis_Infobyte_Offer_Letter-black?style=for-the-badge&logo=readthedocs)](./certificates/oasis%20infobyte%20offer%20letter.pdf)
@@ -113,11 +117,16 @@
 
 ---
 
+## 💼 Internship Experience
+- 👩‍💻 **CodSoft** – Worked on real-world projects in c++ 
+- 🚀 **Oasis Infobyte** – Internship focused on JAVA and Problem Solving 
+
+---
+
 <img src="https://user-images.githubusercontent.com/74038190/212749447-b39c6e09-89c0-4a55-b8f4-0d34bb5b8a68.gif" width="100%"/>
 
-## 💼 Internship Experience
-- 👩‍💻 **CodSoft** – Worked on real-world projects in AI and development.  
-- 🚀 **Oasis Infobyte** – Internship focused on Python, ML, and problem-solving.  
+## 🎶 Now Playing on Spotify  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fbefksdvm7qkl53u3q3avssjca&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=8A2BE2&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31fbefksdvm7qkl53u3q3avssjca&redirect=true)
 
 ---
 
