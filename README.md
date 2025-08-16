@@ -10,6 +10,7 @@
 🚀 Always curious to learn and eager to take on new challenges.  
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ---
 
 <img src="https://komarev.com/ghpvc/?username=iakshra22&color=8A2BE2&style=flat-square&label=👀+Profile+Views"/>
@@ -47,9 +48,12 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212749447-b39c6e09-89c0-4a55-b8f4-0d34bb5b8a68.gif" width="100%"/>
+
 ## 🏆 My Certifications & Achievements
 
-> Here's a list of my verified technical certifications in development, AI, programming, and research.
+<details>
+<summary>📜 Click to View Certifications</summary>
 
 ### 🔧 Certification of C Programming by Simplilearn | SkillUp  
 [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge&logo=simplilearn)](https://simpli.app.link/5ZfD1kpNAVb)
@@ -94,14 +98,28 @@
 ### 🧾 Certification of Submitting Research Paper  
 [![View Certificate](https://img.shields.io/badge/View-Certificate-yellow?style=for-the-badge&logo=readthedocs)](./certificates/risen%20certificate.pdf)
 
+</details>
+
 ---
 
-### 📝 Offer Letters
+<details>
+<summary>📝 Offer Letters</summary>
 
-[![View CodSoft Offer Letter](https://img.shields.io/badge/View-CodSoft_Offer_Letter-black?style=for-the-badge&logo=readthedocs)](./certificates/codsoft%20offer%20letter.pdf)
+[![View CodSoft Offer Letter](https://img.shields.io/badge/View-CodSoft_Offer_Letter-black?style=for-the-badge&logo=readthedocs)](./certificates/codsoft%20offer%20letter.pdf)  
 
 [![View Oasis Infobyte Offer Letter](https://img.shields.io/badge/View-Oasis_Infobyte_Offer_Letter-black?style=for-the-badge&logo=readthedocs)](./certificates/oasis%20infobyte%20offer%20letter.pdf)
 
+</details>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-b39c6e09-89c0-4a55-b8f4-0d34bb5b8a68.gif" width="100%"/>
+
+## 💼 Internship Experience
+- 👩‍💻 **CodSoft** – Worked on real-world projects in AI and development.  
+- 🚀 **Oasis Infobyte** – Internship focused on Python, ML, and problem-solving.  
+
+---
 
 ## 📈 Contribution Activity
 
@@ -129,8 +147,6 @@
 ## 📱 Scan to view my LinkedIn 
 [![LinkedIn QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://www.linkedin.com/in/akshra-dang-aa0648321/)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
 
-
-
 ---
 
 ## 🤝 Let's Connect
@@ -138,8 +154,8 @@
 [![LinkedIn 👩‍💼](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
 [![Instagram 📸](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i__akshra/)
 [![Twitter 🐦](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AkshraDang)
-</div>
 
+---
 
 ## 💌 Open to Learning & Contribution
   <a href="mailto:akshradang22@gmail.com">
@@ -147,7 +163,7 @@
   </a>
 </p>
 
+---
 
-  
 ## 💖 Thanks for visiting my profile!
 > 💬 _Feel free to reach out for collaboration, learning, or a quick tech talk!_
