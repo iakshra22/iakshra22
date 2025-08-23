@@ -98,6 +98,12 @@
 ### 🧾 Certification of Submitting Research Paper  
 [![View Certificate](https://img.shields.io/badge/View-Certificate-yellow?style=for-the-badge&logo=readthedocs)](./certificates/risen%20certificate.pdf)
 
+---
+
+### 🧾 Certification of Introduction to Prompt Engineering with GitHub Copilot
+[![View Certificate](https://img.shields.io/badge/View-Certificate-yellow?style=for-the-badge&logo=readthedocs)](./certificates/github%20certificate.png)
+
+
 </details>
 
 ---
