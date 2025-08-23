@@ -100,7 +100,7 @@
 
 ---
 
-### 🧾 Certification of Introduction to Prompt Engineering with GitHub Copilot
+### 🐙 Certification of Introduction to Prompt Engineering with GitHub Copilot
 [![View Certificate](https://img.shields.io/badge/View-Certificate-yellow?style=for-the-badge&logo=readthedocs)](./certificates/github%20certificate.png)
 
 
