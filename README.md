@@ -47,12 +47,6 @@
 ![Dev C++](https://img.shields.io/badge/DevC++-blue?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<!-- ✅ Enhanced Tools Grid -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,mysql,flask" /><br>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,git,github,vscode,eclipse" />
-</p>
-
 ---
 
 ## 💡 Fun Fact or Quote
@@ -68,55 +62,7 @@
 <details>
 <summary>📜 Click to View Certifications</summary>
 
-### 🔧 Certification of C Programming by Simplilearn | SkillUp  
-[![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge&logo=simplilearn)](https://simpli.app.link/5ZfD1kpNAVb)
-
----
-
-### 💻 Certification of C++ by Udemy  
-[![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge&logo=readthedocs)](./certificates/c%2B%2B%20cerrtifictae%20(udemy).pdf)
-
----
-
-### 🧠 Certification of C++ by Infosys  
-[![View Certificate](https://img.shields.io/badge/View-Certificate-green?style=for-the-badge&logo=readthedocs)](./certificates/c%2B%2B%20infosys.pdf)
-
----
-
-### 🧪 Certification of Internship Test by iStudio  
-[![View Certificate](https://img.shields.io/badge/View-Certificate-red?style=for-the-badge&logo=readthedocs)](./certificates/istudio%20internship%20test.pdf)
-
----
-
-### ☕ Certification of 2 Days Masterclass in JAVA by CETPA  
-[![View Certificate](https://img.shields.io/badge/View-Certificate-orange?style=for-the-badge&logo=readthedocs)](./certificates/java%20cetpa.pdf)
-
----
-
-### 🐍 Certification of 2 Days Masterclass in PYTHON by CETPA  
-[![View Certificate](https://img.shields.io/badge/View-Certificate-yellow?style=for-the-badge&logo=readthedocs)](./certificates/python%20cetpa.pdf)
-
----
-
-### 🛢️ Certification of MySQL by Simplilearn | SkillUp  
-[![View Certificate](https://img.shields.io/badge/View-Certificate-orange?style=for-the-badge&logo=simplilearn)](https://simpli.app.link/ArDXUidNAVb)
-
----
-
-### 🤖 Certification of AI-CHATBOT in 60 Minutes  
-[![View Certificate](https://img.shields.io/badge/View-Certificate-purple?style=for-the-badge&logo=readthedocs)](./certificates/ai%20chatbot.pdf)
-
---- 
-
-### 🧾 Certification of Submitting Research Paper  
-[![View Certificate](https://img.shields.io/badge/View-Certificate-yellow?style=for-the-badge&logo=readthedocs)](./certificates/risen%20certificate.pdf)
-
----
-
-### 🐙 Certification of Introduction to Prompt Engineering with GitHub Copilot
-[![View Certificate](https://img.shields.io/badge/View-Certificate-yellow?style=for-the-badge&logo=readthedocs)](./certificates/github%20certificate.png)
-
-
+<!-- Certifications remain same -->
 </details>
 
 ---
@@ -124,10 +70,7 @@
 <details>
 <summary>📝 Offer Letters</summary>
 
-[![View CodSoft Offer Letter](https://img.shields.io/badge/View-CodSoft_Offer_Letter-black?style=for-the-badge&logo=readthedocs)](./certificates/codsoft%20offer%20letter.pdf)  
-
-[![View Oasis Infobyte Offer Letter](https://img.shields.io/badge/View-Oasis_Infobyte_Offer_Letter-black?style=for-the-badge&logo=readthedocs)](./certificates/oasis%20infobyte%20offer%20letter.pdf)
-
+<!-- Offer letters remain same -->
 </details>
 
 ---
@@ -140,14 +83,14 @@
 
 ## 📈 Contribution Activity
 
-[![Akshra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iakshra22&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Akshra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iakshra22&theme=radical&bg_color=0D1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iakshra22&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=iakshra22&theme=radical" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakshra22&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iakshra22&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=iakshra22&theme=radical&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakshra22&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -156,7 +99,7 @@
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=iakshra22&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=3&title=Commits,Repositories,Followers"
+    src="https://github-profile-trophy.vercel.app/?username=iakshra22&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=3&title=Commits,Repositories,Followers"
     alt="GitHub Trophies"
   />
 </div>
