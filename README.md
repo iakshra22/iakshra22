@@ -134,7 +134,3 @@
 
 ## 💖 Thanks for visiting my profile!
 > 💬 _Feel free to reach out for collaboration, learning, or a quick tech talk!_
-
-<p align="center" style="background: linear-gradient(90deg, #0a66c2, #1DA1F2); padding: 15px; border-radius: 10px; color: white; font-weight: bold;">
-  Made with ❤️ by Akshra | © 2025
-</p>
