@@ -83,7 +83,7 @@
 
 ## 📈 Contribution Activity
 
-[![Akshra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iakshra22&theme=radical&bg_color=0D1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Akshra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iakshra22&theme=nord&bg_color=0D1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📊 GitHub Stats
 
@@ -106,13 +106,8 @@
 
 ---
 
-<!-- ✅ Enhanced LinkedIn QR Code -->
 ## 📱 Scan to view my LinkedIn 
-<p align="center">
-  <a href="https://www.linkedin.com/in/akshra-dang-aa0648321/">
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https://www.linkedin.com/in/akshra-dang-aa0648321/&bgcolor=8A2BE2&color=ffffff" />
-  </a>
-</p>
+[![LinkedIn QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://www.linkedin.com/in/akshra-dang-aa0648321/)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
 
 ---
 
