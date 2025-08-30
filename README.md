@@ -135,7 +135,6 @@
 ## 💖 Thanks for visiting my profile!
 > 💬 _Feel free to reach out for collaboration, learning, or a quick tech talk!_
 
-<!-- ✅ Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" />
+<p align="center" style="background: linear-gradient(90deg, #0a66c2, #1DA1F2); padding: 15px; border-radius: 10px; color: white; font-weight: bold;">
+  Made with ❤️ by Akshra | © 2025
 </p>
