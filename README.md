@@ -13,7 +13,14 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=iakshra22&color=8A2BE2&style=flat-square&label=👀+Profile+Views"/>
+<!-- ✅ Enhanced Profile Views + Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iakshra22&label=Profile+Views&color=8A2BE2&style=flat" />
+  <img src="https://img.shields.io/github/followers/iakshra22?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/iakshra22?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+</p>
+
+---
 
 ## 🚀 Tools and Technologies I Use
 
@@ -39,6 +46,12 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Dev C++](https://img.shields.io/badge/DevC++-blue?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<!-- ✅ Enhanced Tools Grid -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,mysql,flask" /><br>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,git,github,vscode,eclipse" />
+</p>
 
 ---
 
@@ -148,8 +161,15 @@
   />
 </div>
 
+---
+
+<!-- ✅ Enhanced LinkedIn QR Code -->
 ## 📱 Scan to view my LinkedIn 
-[![LinkedIn QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://www.linkedin.com/in/akshra-dang-aa0648321/)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshra-dang-aa0648321/">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https://www.linkedin.com/in/akshra-dang-aa0648321/&bgcolor=8A2BE2&color=ffffff" />
+  </a>
+</p>
 
 ---
 
@@ -171,3 +191,8 @@
 
 ## 💖 Thanks for visiting my profile!
 > 💬 _Feel free to reach out for collaboration, learning, or a quick tech talk!_
+
+<!-- ✅ Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" />
+</p>
