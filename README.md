@@ -57,22 +57,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-b39c6e09-89c0-4a55-b8f4-0d34bb5b8a68.gif" width="100%"/>
 
-## 🏆 My Certifications & Achievements
-
-<details>
-<summary>📜 Click to View Certifications</summary>
-
-<!-- Certifications remain same -->
-</details>
-
----
-
-<details>
-<summary>📝 Offer Letters</summary>
-
-<!-- Offer letters remain same -->
-</details>
-
 ---
 
 ## 💼 Internship Experience
