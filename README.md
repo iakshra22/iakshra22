@@ -52,7 +52,6 @@
 ## 💡 Fun Fact
 > _"Some connections don't throw errors — they just stop responding." — Dev Mishra 👩‍💻  
 ---
-
 <img src="https://user-images.githubusercontent.com/74038190/212749447-b39c6e09-89c0-4a55-b8f4-0d34bb5b8a68.gif" width="100%"/>
 
 ---
