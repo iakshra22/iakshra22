@@ -1,114 +1,102 @@
 <div align="center">
-  
-  <h2>Hi there, I'm Akshra 👩‍💻. Welcome to my GitHub profile!</h2>
+
+# Hi — I'm Akshra 👩‍💻
+**BTech CSE • 2nd Year • Web & Multi-Stack Developer in progress**
 
 </div>
 
-### 🎯 About Me
-💡 BTech Computer Science 2nd year student with a strong interest in Web development and problem-solving.              
-💻 Currently exploring Multi-Stack Development.              
-🚀 Always curious to learn and eager to take on new challenges.  
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
----
-
-<!-- ✅ Enhanced Profile Views + Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iakshra22&label=Profile+Views&color=8A2BE2&style=flat" />
-  <img src="https://img.shields.io/github/followers/iakshra22?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/iakshra22?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+  <!-- PROFILE METRICS -->
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=iakshra22&label=Profile+Views&color=8A2BE2&style=flat" />
+  &nbsp;
+  <img alt="followers" src="https://img.shields.io/github/followers/iakshra22?label=Followers&style=social" />
+  &nbsp;
+  <img alt="stars" src="https://img.shields.io/github/stars/iakshra22?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+  &nbsp;
+  <img alt="license" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
 </p>
 
 ---
 
-## 🚀 Tools and Technologies I Use
-
-### 👩‍💻 Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📚 Libraries & Frameworks
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ff69b4?style=for-the-badge)
-![Tkinter](https://img.shields.io/badge/Tkinter-%23ffcc00?style=for-the-badge)
-![RandomForest](https://img.shields.io/badge/RandomForest-228B22?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🛠️ Tools & IDEs
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Dev C++](https://img.shields.io/badge/DevC++-blue?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+## 👩‍💻 About Me
+- BTech Computer Science — 2nd year student with a passion for **web development**, problem solving and building real projects.
+- Currently learning **multi-stack development** and working on improving full-stack project workflows.
+- Always open to collaboration, internships, and mentorship opportunities.
 
 ---
 
-## 💡 Fun Fact
-> _"Some connections don't throw errors — they just stop responding." — Dev Mishra 👩‍💻  
+## 🎯 Quick Links
+- 📄 Resume: [Add your resume link here]
+- 📁 Portfolio: [Add portfolio link]
+- 📫 Email: [akshradang22@gmail.com](mailto:akshradang22@gmail.com)
+
 ---
-<img src="https://user-images.githubusercontent.com/74038190/212749447-b39c6e09-89c0-4a55-b8f4-0d34bb5b8a68.gif" width="100%"/>
+
+## 🔥 Hero (GIF)
+<div align="center">
+  <!-- replace this gif URL with any short intro animation you'd like -->
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-b39c6e09-89c0-4a55-b8f4-0d34bb5b8a68.gif"
+       alt="Akshra - coding animation" width="100%" style="max-width:900px;border-radius:8px;"/>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+C · C++ · Python · Java · HTML · CSS · JavaScript
+
+### Frameworks & Libraries
+Flask · NumPy · Pandas · Matplotlib · Tkinter
+
+### Tools & IDEs
+VS Code · Eclipse · Jupyter · MySQL · Git & GitHub
+
+(You can replace this list with badge icons if you prefer a visual row of badges.)
 
 ---
 
 ## 💼 Internship Experience
-- 👩‍💻 **CodSoft** – Worked on real-world projects in C++.  
-- 🚀 **Oasis Infobyte** – Internship focused on JAVA and problem-solving.  
+- **CodSoft** — C++ projects and real-world problem solving.  
+- **Oasis Infobyte** — Java-focused internship and competitive programming practice.
 
 ---
 
-## 📈 Contribution Activity
+## 📌 Featured Projects
+> _Pin 2–3 repositories to this section (or use GitHub's pin feature). Short description + tech stack for each._
 
-[![Akshra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iakshra22&theme=nord&bg_color=0D1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- **Project A** — Short one-line summary. `Tech: Flask, MySQL`  
+- **Project B** — Short one-line summary. `Tech: Python, Tkinter`  
+- **Project C** — Short one-line summary. `Tech: HTML, CSS, JS`
+
+---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iakshra22&theme=nord&bg_color=0D1117&hide_border=true" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iakshra22&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=iakshra22&theme=radical&hide_border=true" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakshra22&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=iakshra22&show_icons=true&theme=radical&hide_border=true" />
+  &nbsp;
+  <img alt="streak" src="https://streak-stats.demolab.com?user=iakshra22&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
-
+## 🏆 Achievements
 <div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=iakshra22&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=3&title=Commits,Repositories,Followers"
-    alt="GitHub Trophies"
-  />
+  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=iakshra22&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=3&title=Commits,Repositories,Followers" />
 </div>
 
 ---
 
-## 📱 Scan to view my LinkedIn 
-[![LinkedIn QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://www.linkedin.com/in/akshra-dang-aa0648321/)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
+## 📫 Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iakshra22/)
+[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AkshraDang)
 
 ---
 
-## 🤝 Let's Connect
-  
-[![LinkedIn 👩‍💼](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
-[![Instagram 📸](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iakshra22/)
-[![Twitter 🐦](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AkshraDang)
+> 💬 Feel free to reach out — I love collaborating on learning projects and real-world apps!
 
----
-
-## 💌 Open to Learning & Contribution
-  <a href="mailto:akshradang22@gmail.com">
-    <img src="https://img.shields.io/badge/-Let's%20Collaborate!-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Me">
-  </a>
-</p>
-
----
-
-## 💖 Thanks for visiting my profile!
-> 💬 _Feel free to reach out for collaboration, learning, or a quick tech talk!_
-
-ye meri github ki readme file h isko thioda update kr thoda professional bnana h ek gif b add krna bta ismein ky ky changes ho skte hai !
