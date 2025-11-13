@@ -19,7 +19,6 @@
 
 ### 🔗 **Quick Links**
 📧 [akshradang22@gmail.com](mailto:akshradang22@gmail.com)  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/akshra-dang-aa0648321/)
 
 </div>
 
@@ -57,18 +56,11 @@
 
 ---
 
-## 📈 **GitHub Stats**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=iakshra22&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true&hide_border=true" height="170px" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com?user=iakshra22&theme=tokyonight&hide_border=true&border_radius=10" height="170px" alt="Streak Stats"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iakshra22&theme=react-dark&bg_color=0D1117&hide_border=true&radius=10&area=true" width="100%" alt="Activity Graph"/>
-
-</div>
-
----
+## 📊 GitHub Stats <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=iakshra22&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/> 
+<img src="https://streak-stats.demolab.com?user=iakshra22&theme=radical&hide_border=true" alt="Streak Stats"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakshra22&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
 
 ## 🏆 **GitHub Achievements**
 
@@ -82,8 +74,9 @@
 
 <div align="center">
   
-[![LinkedIn 👩‍💼](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
+[![LinkedIn 👩‍💼](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)]([https://www.linkedin.com/in/akshra-dang-aa0648321/](https://www.linkedin.com/in/akshra-dang-aa0648321/))
 [![Email 📬](https://img.shields.io/badge/Email-akshradang22%40gmail.com-blueviolet?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:akshradang22@gmail.com)
+
 
 </div>
 
