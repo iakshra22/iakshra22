@@ -22,6 +22,13 @@
 
 ---
 
+### 🏆 GitHub Achievements
+
+- 🦈 **Pull Shark** – Successfully merged pull requests  
+- 🌟 **Starstruck** – 16+ stars on repositories  
+- 🤝 **Pair Extraordinaire** – Co-authored pull requests  
+
+
 ## 🚀 Tools and Technologies I Use
 
 ### 👩‍💻 Programming Languages
