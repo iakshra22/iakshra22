@@ -72,11 +72,11 @@
 ## 🤝 **Let's Connect**
 
 <div align="center">
-  
-[![LinkedIn 👩‍💼](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)]([https://www.linkedin.com/in/akshra-dang-aa0648321/](https://www.linkedin.com/in/akshra-dang-aa0648321/))
-[![Email 📬](https://img.shields.io/badge/Email-akshradang22%40gmail.com-blueviolet?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:akshradang22@gmail.com)
-[![Twitter 🐦](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black)]([https://twitter.com/your_twitter_username](https://x.com/AkshraDang))
+[![LinkedIn 👩‍💼](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/akshra-dang-aa0648321/)
+[![Email 📬](https://img.shields.io/badge/Email-blueviolet?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:akshradang22@gmail.com)
+[![Twitter 🐦](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black)](https://x.com/AkshraDang)
 [![Instagram 📸](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black)](https://www.instagram.com/iakshra22/)
+
 
 
 </div>
