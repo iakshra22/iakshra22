@@ -17,7 +17,7 @@
 
 ---
 
-📧 [akshradang22@gmail.com](mailto:akshradang22@gmail.com)  
+📧 [akshradang@gmail.com](mailto:akshradang@gmail.com)  
 
 </div>
 
