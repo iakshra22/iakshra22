@@ -56,10 +56,21 @@
 </p>
 
 ---
+<!-- ✨ Animated Tech Stack Heading -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff0059&size=23&center=true&vCenter=true&width=500&lines=✨+My+Tech+Stack+✨;💻+Technologies+I+use+for+building+projects+💜;">
+</p>
 
-# 🚀 Tech Stack
+---
 
-## 🌐 Frontend
+# 🚀 **Tech Stack Overview**
+Ye wo technologies hain jisme main kaam karti hoon — frontend, backend, Python ecosystem, DB, tools & data science.
+
+---
+
+# 🌐 **Frontend Technologies**
+**HTML, CSS, JavaScript**
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html&theme=dark" height="60">
@@ -70,7 +81,9 @@
 
 ---
 
-## 🐍 Programming Languages  
+# 🐍 **Programming Languages**
+**Python, C, C++, Java**
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark" height="60">
@@ -82,7 +95,9 @@
 
 ---
 
-## 🧠 Python Ecosystem  
+# 🧠 **Python Ecosystem**
+**Jupyter Notebook, OpenCV**
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" height="60">
@@ -92,7 +107,9 @@
 
 ---
 
-## 🗄️ Database  
+# 🗄️ **Database**
+**MySQL**
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60">
@@ -101,7 +118,9 @@
 
 ---
 
-## ⚙️ Tools & IDEs  
+# ⚙️ **Tools & IDEs**
+**VS Code, Eclipse, GitHub, Dev C++**
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="60">
@@ -114,7 +133,9 @@
 
 ---
 
-## 📊 Data Science  
+# 📊 **Data Science Libraries**
+**NumPy, Pandas, Matplotlib**
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge">
@@ -122,6 +143,13 @@
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge">
 
 </div>
+
+---
+
+# 🐍 **GitHub Snake Animation**
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="700" />
+</p>
 
 ---
 
