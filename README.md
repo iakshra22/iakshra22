@@ -26,7 +26,7 @@
 </td>
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="280" alt="Developer banner"/>
+<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="280" alt="Developer banner](https://pin.it/6ZUQfM0qd"/>
 
 </td>
 </tr>
