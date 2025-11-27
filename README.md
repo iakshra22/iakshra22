@@ -50,76 +50,35 @@
 - 🎧 **Vibe:** Lo-fi + Focus playlists while coding  
 
 ---
+###🚀 Tech Stack
 
-# FRONT-END DEVELOPMENT TECHNOLOGIES :
+## 🌐 Frontend Technologies
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /> </div>
+ 
 
----
+## 🐍 Programming Languages
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" /> </div>
 
-### Languages & Core Web Tech :
 
-<div align="center">
+## 🛠️ Python Ecosystem
+<div align="center"> <img src="https://skillicons.dev/icons?i=python&theme=dark" /> </div> <div align="center"> <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" /> <img src="https://skillicons.dev/icons?i=opencv&theme=dark" /> </div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
-</div>
+## 🧰 Frameworks & GUI
+<div align="center"> <img src="https://skillicons.dev/icons?i=flask&theme=dark" /> </div> <div align="center"> <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </div>
 
----
 
-# BACK-END & PYTHON ECOSYSTEM :
+## 🗄️ Database
+<div align="center"> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" /> </div>
 
----
 
-### Languages & Concepts :
+## ⚒️ Tools & IDEs
+<div align="center"> <img src="https://skillicons.dev/icons?i=vscode,eclipse,github&theme=dark" /> </div> <div align="center"> <img src="https://img.shields.io/badge/DevC++-blue?style=for-the-badge" /> </div>
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
+## 🌟 Extra Tools
+<div align="center"> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" /> </div>
 
-</div>
-
----
-
-### Frameworks & Libraries :
-
-- 🐍 **Python:** Flask, Tkinter  
-- 📊 **Data / ML side:** NumPy, Pandas, Matplotlib, scikit-learn (basics)  
-
----
-
-### Databases :
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-
-</div>
-
-- Designed **basic schemas** for academic projects  
-- Used **MySQL + Python** for small DB-based apps  
-
----
-
-# OTHER TOOLS & WORKFLOW :
-
----
-
-### Version Control & Platforms :
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=github&theme=dark" />
-
-</div>
-
----
-
-### IDEs & Productivity :
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,eclipse&theme=dark" />
-
-</div>
 
 ---
 
