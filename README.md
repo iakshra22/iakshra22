@@ -45,13 +45,13 @@
 ## 🖥️ My Dev Setup
 
 - 💻 **OS:** Windows (Laptop for coding + projects)  
-- 🛠️ **Main IDEs:** VS Code, Eclipse, Jupyter Notebook, Dev-C++  
+- 🛠️ **Main IDEs:** VS Code, Eclipse, Dev-C++  
 - 🌐 **Browser:** Chrome (DevTools, Extensions for Web Dev)  
 - 🎧 **Vibe:** Lo-fi + Focus playlists while coding  
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ff0059&size=23&center=true&vCenter=true&width=500&lines=✨+My+Tech+Stack+✨;💻+Technologies+I+use+for+building+projects+💜;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff0059&size=23&center=true&vCenter=true&width=500&lines=✨+My+Tech+Stack+✨;">
 </p>
 
 ---
