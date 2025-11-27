@@ -50,21 +50,9 @@
 - 🎧 **Vibe:** Lo-fi + Focus playlists while coding  
 
 ---
-<!-- ✨ Animated Tech Stack Heading -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ff0059&size=23&center=true&vCenter=true&width=500&lines=✨+My+Tech+Stack+✨;💻+I+love+building+projects+💜;">
-</p>
-
----
-<!-- ✨ Animated Tech Stack Heading -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ff0059&size=23&center=true&vCenter=true&width=500&lines=✨+My+Tech+Stack+✨;💻+Technologies+I+use+for+building+projects+💜;">
 </p>
-
----
-
-# 🚀 **Tech Stack Overview**
-Ye wo technologies hain jisme main kaam karti hoon — frontend, backend, Python ecosystem, DB, tools & data science.
 
 ---
 
@@ -143,13 +131,6 @@ Ye wo technologies hain jisme main kaam karti hoon — frontend, backend, Python
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge">
 
 </div>
-
----
-
-# 🐍 **GitHub Snake Animation**
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="700" />
-</p>
 
 ---
 
