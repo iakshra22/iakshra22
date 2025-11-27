@@ -1,137 +1,182 @@
-<div align="center">
-
-<!-- Heading & Typing Animation -->
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF6CE0&center=true&vCenter=true&lines=Hey%2C+I'm+Akshra+%F0%9F%91%A9%F0%9F%92%BB;BTech+CSE+Student;Web+Dev+%7C+Problem+Solver;Always+learning+something+new!)
-
-</div>
+<!-- MAIN HEADER ANIMATION --------------------------------------- -->
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=iakshra22&style=flat-square&color=ff6ce0)
+
+<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3400&color=FF5DF1&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B%2C+I'm+Akshra!;BTech+CSE+Undergrad+%7C+Developer+%7C+Designer;Turning+Ideas+into+Interactive+Experiences+%F0%9F%8E%A8;Welcome+to+My+Digital+Space+%F0%9F%92%BB" />
 
 </div>
 
 ---
 
+<!-- INTRO CARD -------------------------------------------------- -->
+
+<div align="center">
+
+### 💜 *A Developer who codes with logic and creates with creativity.*
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2JjZjUwenR1dzR2bWltMDZkZWNtY2syN3RndWtwYXI3cWl3NDg5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="320" />
+
+</div>
+
+---
+
+# 🎯 **About Me**
+<div align="center">
+
+🌟 2nd Year **CSE Student**  
+💻 Passionate about **Web Development**, **UI/UX**, **Backend Basics**  
+⚡ Exploring **Python, Java, MySQL, Flask**  
+🎨 loves building **beautiful, animated and meaningful UIs**  
+🚀 Currently leveling up in **Multi-stack development**
+
+</div>
+
+---
+
+# ⚙️ **Tech Stack**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,react,flask,mysql,sqlite,git,github,vscode,eclipse,figma&perline=8" />
+
+</div>
+
+---
+
+# 🌐 **Socials**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4378ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshra-dang-aa0648321/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iakshra22/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AkshraDang)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/YOUR_DISCORD_ID)
+
+</div>
+
+---
+
+# 🧩 **Experience (Animated Cards)**
+
 <div align="center">
 
 <table>
-  <tr>
-    <td>
-      
-### ✨ About Me  
+<tr>
 
-- 🎓 **BTech Computer Science (2nd Year)**  
-- 💻 Passionate about **Web Development** & **Problem Solving**  
-- 🚀 Currently exploring **Multi-Stack Development**  
-- 🎨 Love building **interactive & creative** web experiences  
-- 🌱 Always trying to learn, build, break and improve things  
+<td width="300" align="center">
+  
+### 🌟 CodSoft  
+💻 _C++ Projects & Real-world Applications_  
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="120"/>
 
-📧 **Email:** [akshradang@gmail.com](mailto:akshradang@gmail.com)
+</td>
 
-  </td>
-    <td>
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="260" alt="Coding gif">
-    </td>
-  </tr>
+<td width="300" align="center">
+
+### 🚀 Oasis Infobyte  
+📘 _Java + Problem Solving Focused Internship_  
+<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="120"/>
+
+</td>
+
+<td width="300" align="center">
+
+### 🎨 TechnoHacks  
+🔥 _Front-End Developer (Currently Working)_  
+<img src="https://media.giphy.com/media/3ov9k0BZp6fEJg2y0c/giphy.gif" width="120"/>
+
+</td>
+
+</tr>
 </table>
 
 </div>
 
 ---
 
-## ⚙️ Tech Stack
+# 🛣️ **Journey So Far (Animated Timeline)**
 
 <div align="center">
 
-<!-- Languages -->
-  
-**Languages & Core**
-  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=000000)
-![C++](https://img.shields.io/badge/C++-blueviolet?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=000000)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-**Web & Frameworks**
-  
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000)
-![Tkinter](https://img.shields.io/badge/Tkinter-%23ffcc00?style=for-the-badge&labelColor=000000)
-
-**Data & Tools**
-  
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000)
-
-**IDEs & Environment**
-  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=000000)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000)
-![Dev C++](https://img.shields.io/badge/DevC++-blueviolet?style=for-the-badge&labelColor=000000)
+### 📌 2022 — Started Programming (C, C++)  
+### 📌 2023 — Learned Python, SQL, Web Basics  
+### 📌 2024 — Projects, Internships, GitHub Journey  
+### 📌 2025 — Multi-Stack Web Dev + Portfolio + Real World Projects  
+### 📌 2026 — 🚀 Aiming for Full-Stack Developer  
 
 </div>
 
 ---
 
-## 🎓 Experience
-
-- 💻 **CodSoft** — Worked on real-world **C++ projects**  
-- 🚀 **Oasis Infobyte** — Internship focused on **Java** & **Problem Solving**  
-- 🌐 **TechnoHacks** — _Currently working as a **Front-End Developer**_  
-
----
-
-## 📊 GitHub Stats
+# 📊 **GitHub Analytics**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iakshra22&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats"/>  
-<img src="https://streak-stats.demolab.com?user=iakshra22&theme=radical&hide_border=true" height="160" alt="Streak Stats"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakshra22&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iakshra22&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=iakshra22&theme=radical&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakshra22&layout=compact&theme=radical&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements & Activity
+# 🏆 **Achievements**
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=iakshra22&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=3&title=Commits,Repositories,Followers" alt="GitHub Trophies"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iakshra22&theme=redical&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iakshra22&theme=dracula&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+# ✨ **Projects Showcase (Animated Cards)**
 
 <div align="center">
 
-[![LinkedIn 👩‍💼](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshra-dang-aa0648321/) 
-[![Instagram 📸](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iakshra22/) 
-[![Twitter 🐦](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AkshraDang)
-[![Discord 🎧](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/YOUR_DISCORD_ID)
+<table>
+<tr>
+
+<td width="350">
+
+### 🤖 Voice Assistant  
+🎤 Speaks | Understands | Executes  
+⭐ Python + Tkinter + TTS  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdiejZsMW1hdHEwcDVmaG8xeG92b3ZpMW44MnhkdHNmNHdpNWRmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduQAsYcJKQH2XsI/giphy.gif" width="120"/>
+
+</td>
+
+<td width="350">
+
+### 📸 One Click Cam  
+📷 Capture + Store + View  
+⭐ Python + OpenCV  
+<img src="https://media.giphy.com/media/26FPq8Cz8xK8sC3os/giphy.gif" width="120"/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
-> 💡 _Replace `YOUR_DISCORD_ID` above with your actual Discord profile link._
-
 ---
 
-> 💬 _“Some connections don’t throw errors — they just stop responding.”_  
-> — **Akshra** 👩‍💻  
+# ✨ **Quote**
+<div align="center">
+
+### _“Some connections don’t throw errors — they just stop responding.”_  
+— **Akshra**
+
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding footer animation"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
 </p>
+
