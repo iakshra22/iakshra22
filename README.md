@@ -1,17 +1,12 @@
-<!-- ========== TOP RED WAVE BANNER ========== -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0044&height=140&section=header&text=Akshra%20Dang&fontSize=40&fontAlignY=30&fontColor=ffffff" width="100%"/>
 
 ---
 
-<!-- ========== MAIN TAGLINE ========== -->
 
-### Full-Stack Learner & Web Developer · BTech CSE (2nd Year)  
-### Building Interactive Experiences & Turning Ideas into Real Projects.
+###  Web Developement Learnder · BTech CSE (2nd Year)  
+### Real project Explorer
 
 ---
-
-<!-- ========== HERO SECTION (LEFT TEXT + RIGHT IMAGE) ========== -->
 
 <table>
 <tr>
@@ -20,8 +15,8 @@
 ### Hi! I'm **Akshra** 👩‍💻  
 
 - 🎓 **BTech Computer Science – 2nd Year**
-- 💻 Focused on **Web Development, Python & Problem Solving**
-- 🧠 Working with **C, C++, Python, Java, MySQL, Flask, Tkinter**
+- 💻 Focused on **Web Development, Java and Problem solving **
+- 🧠 Working with **C++, Python, Java, MySQL, Flask, Tkinter**
 - 🎨 Love **clean UI, animations & modern layouts**
 - 🚀 Currently exploring **Multi-Stack Development**
 - 🤝 Open for **collabs, internships & hackathons**
@@ -31,7 +26,6 @@
 </td>
 <td width="45%" align="center">
 
-<!-- apni image / banner yahan daal sakti hai -->
 <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="280" alt="Developer banner"/>
 
 </td>
@@ -179,18 +173,15 @@
 
 <div align="center">
 
-<!-- Profile summary card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iakshra22&theme=radical" width="100%" />
 
 <br/><br/>
 
-<!-- Top languages by repo / commit -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iakshra22&theme=radical" height="170" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iakshra22&theme=radical" height="170" />
 
 <br/><br/>
 
-<!-- Stats + Productive time -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iakshra22&theme=radical" height="170" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iakshra22&theme=radical&utcOffset=5.5" height="170" />
 
@@ -205,7 +196,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff0044?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshra-dang-aa0648321/)  
 [![Instagram](https://img.shields.io/badge/Instagram-ff1744?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iakshra22/)  
 [![Twitter](https://img.shields.io/badge/X%20(Twitter)-d50000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AkshraDang)  
-[![Discord](https://img.shields.io/badge/Discord-b71c1c?style=for-the-badge&logo=discord&logoColor=white)](REPLACE_THIS_WITH_YOUR_DISCORD_PROFILE_LINK)
+[![Discord](https://img.shields.io/badge/Discord-b71c1c?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@iakshra_22)
 
 </div>
 
@@ -214,6 +205,3 @@
 > _“Some connections don’t throw errors — they just stop responding.”_  
 > — **Akshra 👩‍💻**
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0044&height=100&section=footer" width="100%"/>
