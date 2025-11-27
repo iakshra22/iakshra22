@@ -127,7 +127,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"><
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge">
 
 </div>
 
