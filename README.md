@@ -65,18 +65,6 @@
 
 ---
 
-### Styling, Layout & UI :
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Responsive%20Layouts-Flexbox%20%7C%20Grid-ff0044?style=for-the-badge&labelColor=000000" />
-<br/>
-<img src="https://img.shields.io/badge/Focus-Clean%20UI%20%26%20Simple%20UX-b00020?style=for-the-badge&labelColor=000000" />
-
-</div>
-
----
-
 # BACK-END & PYTHON ECOSYSTEM :
 
 ---
@@ -130,18 +118,6 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm&theme=dark" />
-
-</div>
-
----
-
-### Design & Extras :
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Interests-UI%2FUX%20%7C%20Animations%20%7C%20Dashboards-ff0044?style=for-the-badge&labelColor=000000" />
 
 </div>
 
