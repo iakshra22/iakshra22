@@ -107,7 +107,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github&theme=dark" />
 
 </div>
 
@@ -117,7 +117,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,eclipse&theme=dark" />
 
 </div>
 
