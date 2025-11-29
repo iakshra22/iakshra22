@@ -3,7 +3,7 @@
 ---
 
 
-###  Web Developement Learnder · BTech CSE (2nd Year)  
+###  Web Developement Learner · BTech CSE (2nd Year)  
 ### Real project Explorer
 
 ---
