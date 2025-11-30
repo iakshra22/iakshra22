@@ -161,9 +161,10 @@
 
 <p align="center">
   <a href="https://discord.com/users/1355899286868726033">
-    <img src="https://lanyard.cnrad.dev/api/1355899286868726033?bg=000000&borderRadius=25px&hideDiscrim=true&idleMessage=Probably%20coding%20or%20dancing%20💃" alt="Discord Presence"/>
+    <img src="https://lanyard.cnrad.dev/api/1355899286868726033?theme=dark&bg=1a1a1a&borderRadius=25px&hideDiscrim=true&idleMessage=Probably%20coding%20or%20dancing%20💃" />
   </a>
 </p>
+
 
 ---
 
