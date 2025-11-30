@@ -202,12 +202,10 @@ kyunki neend meri sabse special activity hai 😴✨**
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats-git-masterrainstreaks.vercel.app/api/wakatime?username=iakshra22&bg_color=0d1117&title_color=ff4b4b&icon_color=ff4b4b&text_color=c9d1d9&border_radius=20&hide_border=false" 
-  alt="WakaTime Stats"
-/>
+[![My Coding Time](https://wakatime.com/badge/user/e06b25c8-813a-4a97-8aeb-bcf766380674.svg?style=for-the-badge)](https://wakatime.com/@iakshra22)
 
 </div>
+
 
 ---
 
