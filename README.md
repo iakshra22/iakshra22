@@ -37,7 +37,7 @@
 
 ---
 
-### 🛰 Discord Activity (🔗 **For more real-time updates, stalk me on Discord:👉 *Click the activity card above!**)
+### 🛰 Discord Activity
 
 <div align="center">
 
