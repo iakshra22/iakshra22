@@ -44,7 +44,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1355899286868726033?theme=dark&borderRadius=25)](https://discord.com/users/1355899286868726033)
 
 </div>
-
 <div align="center">
   
 🫶 **If nothing's showing above, I'm probably asleep...  
@@ -192,6 +191,16 @@ kyunki neend meri sabse special activity hai 😴✨**
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iakshra22&theme=radical" height="170" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iakshra22&theme=radical&utcOffset=5.5" height="170" />
+
+</div>
+
+---
+
+### ⌛ Coding Activity (Powered by WakaTime)
+
+<div align="center">
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=iakshra22&bg_color=0d1117&title_color=ff4b4b&icon_color=ff4b4b&text_color=c9d1d9&border_radius=20&hide_border=false)](https://wakatime.com/@iakshra22)
 
 </div>
 
