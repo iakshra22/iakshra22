@@ -38,6 +38,16 @@
 
 ---
 
+### 🛰 Discord Activity
+
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1355899286868726033?theme=dark&borderRadius=25)](https://discord.com/users/1355899286868726033)
+
+</div>
+
+---
+
 ## 💼 Experience
 
 - 🌟 **CodSoft** — C++ based real-world project internship  
@@ -154,17 +164,6 @@
 - Uses **Python + OpenCV**  
 - Captures images quickly from webcam  
 - Focus on **utility + speed** for quick snapshots  
-
----
-
-### 🛰 Discord Activity
-
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1355899286868726033?theme=dark&borderRadius=25)](https://discord.com/users/1355899286868726033)
-
-</div>
-
 
 
 ---
