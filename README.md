@@ -196,10 +196,11 @@ kyunki neend meri sabse special activity hai 😴✨**
 
 ---
 
-### ⌛ Coding Activity (Powered by WakaTime)
+### ⌛ Coding Activity 
 
-[![wakatime](https://wakatime.com/badge/user/iakshra22)](https://wakatime.com/@iakshra22)
-
+[[![wakatime](https://wakatime.com/badge/user/iakshra22)](https://wakatime.com/@iakshra22)
+](https://github-readme-stats-git-masterrainstreaks.vercel.app/api/wakatime?username=iakshra22
+)
 ---
 
 ## 🌐 Connect With Me :
