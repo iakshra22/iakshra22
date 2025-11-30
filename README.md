@@ -39,26 +39,10 @@
 
 ### 🎧 Spotify Activity
 
-<p align="center" style="margin-top: 10px;">
-  <div style="
-      display: inline-block; 
-      padding: 12px; 
-      border-radius: 18px; 
-      background: rgba(255, 255, 255, 0.05); 
-      backdrop-filter: blur(6px);
-      box-shadow: 0 0 12px rgba(0,0,0,0.25);
-  ">
-  
-    <a href="https://github.com/kittinan/spotify-github-profile">
-      <img 
-        src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yxrrb2vzwo5hvjrlyvbqb3gdgu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" 
-        height="90"
-        style="border-radius: 12px;"
-      >
-    </a>
-
-  </div>
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yxrrb2vzwo5hvjrlyvbqb3gdgu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" height="110">
+  </a>
 </p>
 
 
