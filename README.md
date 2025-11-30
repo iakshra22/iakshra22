@@ -37,20 +37,14 @@
 
 ---
 
-### 🛰 Discord Activity
+### 🎧 Spotify Activity
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1355899286868726033?theme=dark&borderRadius=25)](https://discord.com/users/1355899286868726033)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yxrrb2vzwo5hvjrlyvbqb3gdgu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
-<div align="center">
-  
-🫶 **If nothing's showing above, I'm probably asleep...  
-kyunki neend meri sabse special activity hai 😴✨**
- 
 
-</div>
 
 ---
 
