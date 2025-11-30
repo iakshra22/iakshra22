@@ -49,6 +49,8 @@
   
 🫶 **If nothing's showing above, I'm probably asleep...  
 kyunki neend meri sabse special activity hai 😴✨**
+🔗 **For more real-time updates, stalk me on Discord:**  
+👉 *Click the activity card above!*
 
 </div>
 
