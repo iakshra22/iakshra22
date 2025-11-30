@@ -27,9 +27,9 @@
 📩 **Email:** `akshradang@gmail.com`  
 
 </td>
-<td width="45%" align="center">
+<td width="70%" align="center">
 
-<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="280" alt="Developer banner](https://pin.it/6ZUQfM0qd"/>
+<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="600" alt="Developer banner](https://pin.it/6ZUQfM0qd"/>
 
 </td>
 </tr>
