@@ -41,8 +41,8 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1355899286868726033?theme=dark&borderRadius=15)](https://discord.com/users/1355899286868726033)
 
   <div align="center">
-🫶 **If nothing's showing above, I'm probably asleep...  
-kyunki neend meri sabse special activity hai 😴✨**
+🫶If nothing's showing above, I'm probably asleep...  
+kyunki neend meri sabse special activity hai 😴✨
 </div>
   
 ### 🎧 Spotify Activity 
