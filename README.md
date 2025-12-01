@@ -37,8 +37,9 @@
 ---
 
 ### 🔥 Live Coding Status (VS Code)
-
+<p align="center"> 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1355899286868726033?theme=dark&borderRadius=15)](https://discord.com/users/1355899286868726033)
+</p>
 
  ---
   
