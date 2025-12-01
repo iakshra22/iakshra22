@@ -2,6 +2,9 @@
 
 ---
 
+### 🔥 Live Coding Status (VS Code)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1355899286868726033?theme=dark&borderRadius=15)](https://discord.com/users/1355899286868726033)
 
 ###  Web Developement Learner · BTech CSE (2nd Year)  
 ### Real project Explorer
