@@ -36,13 +36,12 @@
 
 ---
   <div align="center">
-🫶If nothing's showing above, I'm probably asleep...  
-kyunki neend meri sabse special activity hai 😴✨
-  
 ### 🎧 Spotify Activity 
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yxrrb2vzwo5hvjrlyvbqb3gdgu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false" height="290">
   </a>
+    🫶If nothing's showing above, I'm probably asleep...  
+kyunki neend meri sabse special activity hai 😴✨
   </div>
   
 
