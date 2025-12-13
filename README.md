@@ -146,16 +146,8 @@
 </div>
 ---
 
+
 # PROJECTS (HIGHLIGHTS) :
-
----
-
-<p align="center">
-  <a href="https://holopin.io/@iakshra22">
-    <img src="https://holopin.me/iakshra22" alt="Holopin Badges" />
-  </a>
-</p>
-
 ---
 
 ### 🤖 Voice Assistant
@@ -194,6 +186,16 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iakshra22&theme=radical&utcOffset=5.5" height="170" />
 
 </div>
+
+---
+
+## 🏆 Holophin Badges 
+
+<p align="center">
+  <a href="https://holopin.io/@iakshra22">
+    <img src="https://holopin.me/iakshra22" alt="Holopin Badges" />
+  </a>
+</p>
 
 ---
 
