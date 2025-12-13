@@ -145,12 +145,16 @@
 
 </div>
 ---
-[![An image of @iakshra22's Holopin badges, which is a link to view their full Holopin profile]
-(https://holopin.me/iakshra22)](https://holopin.io/@iakshra22)
+
+# PROJECTS (HIGHLIGHTS) :
 
 ---
 
-# PROJECTS (HIGHLIGHTS) :
+<p align="center">
+  <a href="https://holopin.io/@iakshra22">
+    <img src="https://holopin.me/iakshra22" alt="Holopin Badges" />
+  </a>
+</p>
 
 ---
 
