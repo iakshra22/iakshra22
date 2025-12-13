@@ -145,7 +145,8 @@
 
 </div>
 ---
-[![An image of @iakshra22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iakshra22)](https://holopin.io/@iakshra22)
+[![An image of @iakshra22's Holopin badges, which is a link to view their full Holopin profile]
+(https://holopin.me/iakshra22)](https://holopin.io/@iakshra22)
 
 ---
 
