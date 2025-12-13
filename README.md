@@ -212,6 +212,6 @@
 
 ---
 
-> _“Some connections don’t throw errors — they just stop responding.”_  
+> THERE'S NO THAT TYPE OF CONNECTION NOW ,YET I'LL ALWAYS BE  GRATEFUL TO THE ONE PERSON WHO ONCE GUIDED ME AND HELPED ME LEARN ALL THIS^-^. THANKYOU SO MUCH !!! 
 > — **Akshra 👩‍💻**
 
