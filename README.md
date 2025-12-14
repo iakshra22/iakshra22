@@ -189,15 +189,6 @@
 
 ---
 
-## 🏆 Holophin Badges 
-
-<p align="center">
-  <a href="https://holopin.io/@iakshra22">
-    <img src="https://holopin.me/iakshra22" alt="Holopin Badges" />
-  </a>
-</p>
-
----
 
 ## 🌐 Connect With Me :
 
