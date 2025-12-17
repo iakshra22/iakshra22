@@ -48,14 +48,6 @@
 
 ---
 
-## 💼 Experience
-
-- 🌟 **CodSoft** — C++ based real-world project internship  
-- 🚀 **Oasis Infobyte** — Java + Problem Solving internship  
-- 🎨 **TechnoHacks** — _Front-End Developer (Currently Working)_  
-
----
-
 ## 🖥️ My Dev Setup
 
 - 💻 **OS:** Windows (Laptop for coding + projects)  
