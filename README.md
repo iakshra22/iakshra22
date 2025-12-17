@@ -16,10 +16,10 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-red?style=for-the-badge)](https://iakshra22.github.io/Portfolio-akshra/)
 
 - 🎓 **BTech Computer Science – 2nd Year**
-- 💻 Focused on Web Development, Java and Problem solving.
-- 🧠 Working with C++, Python, Java, MySQL, Flask, Tkinter
+- 💻 Focused on:-  Web Development, Java and Problem solving.
+- 🧠 Working with:-  C++, Python, Java, MySQL, Flask, Tkinter
 - 🎨 Love clean UI, animations & modern layouts
-- 🚀 Currently exploring Web Development
+- 🚀 Currently exploring:-  Web Development
 - 🤝 Open for collabs, internships & hackathons
 
 📩 **Email:** `akshradang@gmail.com`  
