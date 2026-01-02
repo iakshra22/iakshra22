@@ -47,8 +47,7 @@
 
 <div align="center">
 
- <img src="https://skillicons.dev/icons?i=html&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=css&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=js&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=c&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=java&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=github&theme=dark" height="60"><img src="https://img.shields.io/badge/DevC++-blue?style=for-the-badge"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge"> 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge">
+ <img src="https://skillicons.dev/icons?i=html&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=css&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=js&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=c&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=java&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=github&theme=dark" height="60">
 
 
 </div>
