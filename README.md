@@ -1,16 +1,3 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0044&height=140&section=header&text=Akshra%20Dang&fontSize=40&fontAlignY=30&fontColor=ffffff" width="100%"/>
-
----
-
-###  Web Developement Learner · BTech CSE (2nd Year)  
-### Real project Explorer
-
----
-
-<table>
-<tr>
-<td width="55%"> -->
-
 ### Hi! I'm **Akshra** 👩‍💻  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-red?style=for-the-badge)](https://iakshra22.github.io/Portfolio-akshra/)
@@ -60,21 +47,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=css&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=js&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=c&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=java&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=github&theme=dark" height="60"><img src="https://img.shields.io/badge/DevC++-blue?style=for-the-badge"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge">
+ <img src="https://skillicons.dev/icons?i=html&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=css&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=js&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=c&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=java&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=github&theme=dark" height="60"><img src="https://img.shields.io/badge/DevC++-blue?style=for-the-badge"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge"> 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge">
 
 
 </div>
-
----
-
-## 🏆 Holophin Badges 
-
-<p align="center">
-  <a href="https://holopin.io/@iakshra22">
-    <img src="https://holopin.me/iakshra22" alt="Holopin Badges" />
-  </a>
-</p>
 
 ---
 
