@@ -54,28 +54,6 @@
 
 ---
 
-# GitHub Profile Stats :
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iakshra22&theme=radical" width="100%" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iakshra22&theme=radical" height="170" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iakshra22&theme=radical" height="170" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iakshra22&theme=radical" height="170" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iakshra22&theme=radical&utcOffset=5.5" height="170" />
-
-</div>
-
----
-
 > THERE'S NO THAT TYPE OF CONNECTION NOW ,YET I'LL ALWAYS BE  GRATEFUL TO THE ONE PERSON WHO ONCE GUIDED ME AND HELPED ME LEARN ALL THIS^-^. THANKYOU SO MUCH !!! 
 > — **Akshra 👩‍💻**
 
