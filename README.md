@@ -1,59 +1,27 @@
 ### Hi! I'm **Akshra** 👩‍💻  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-red?style=for-the-badge)](https://iakshra22.github.io/Portfolio-akshra/)
-
 - 🎓 **BTech Computer Science – 2nd Year**
 - 💻 Focused on:-  Web Development, Java and Problem solving.
-- 🧠 Working with:-  C++, Python, Java, MySQL, Flask, Tkinter
 - 🎨 Love clean UI, animations & modern layouts
-- 🚀 Currently exploring:-  Web Development
 - 🤝 Open for collabs, internships & hackathons
 
-📩 **Email:** `akshradang@gmail.com`  
-
- </td>
-<td width="40%" align="center">
-
-## 🖥️ My Dev Setup
-
-- 💻 **OS:** Windows (Laptop for coding + projects)  
-- 🛠️ **Main IDEs:** VS Code, Eclipse, Dev-C++  
-- 🌐 **Browser:** Chrome (DevTools, Extensions for Web Dev)  
-- 🎧 **Vibe:** Lo-fi + Focus playlists while coding  
-
- </td>
-</tr>
-</table> 
-
----
-  
-### 🎧 Spotify Activity 
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yxrrb2vzwo5hvjrlyvbqb3gdgu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false" height="290">
-  </a>
-  </div>
-  <div align="center">
-    🫶If nothing's showing here, I'm probably asleep...kyunki neend meri sabse special activity hai 😴✨
-  </div>
-  
+📩 **Email:** `akshradang@gmail.com` 
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ff0059&size=23&center=true&vCenter=true&width=500&lines=✨+My+Tech+Stack+✨;">
-</p>
+### Currently Learning:-
+
+
 
 
 <div align="center">
 
- <img src="https://skillicons.dev/icons?i=html&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=css&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=js&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=c&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=java&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=github&theme=dark" height="60">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=java&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="60">
 
 
 </div>
 
 ---
 
-> THERE'S NO THAT TYPE OF CONNECTION NOW ,YET I'LL ALWAYS BE  GRATEFUL TO THE ONE PERSON WHO ONCE GUIDED ME AND HELPED ME LEARN ALL THIS^-^. THANKYOU SO MUCH !!! 
-> — **Akshra 👩‍💻**
+THERE'S NO THAT TYPE OF CONNECTION NOW ,YET I'LL ALWAYS BE  GRATEFUL TO THE ONE PERSON WHO ONCE GUIDED ME AND HELPED ME LEARN ALL THIS^-^. THANKYOU SO MUCH !!! — **Akshra 👩‍💻**
 
