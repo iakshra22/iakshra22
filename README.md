@@ -7,7 +7,7 @@
 
 📩 **Email:** `akshradang@gmail.com` 
 
-### Currently Learning:-
+### Techstack:-
 
 <div align="center">
 
