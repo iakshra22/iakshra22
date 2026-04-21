@@ -11,10 +11,10 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="60"> <img src="https://skillicons.dev/icons?i=java&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="60">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=tailwindcss&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="60"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="60">
 
 
 </div>
 
-I'LL ALWAYS BE  GRATEFUL TO THE ONE PERSON WHO ONCE GUIDED ME AND HELPED ME LEARN ALL THIS...THANKYOU :)
+I'm always grateful to the one person who guides me and helps me learn all this… thank you :)
 
