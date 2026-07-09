@@ -1,6 +1,6 @@
 ### Hi! I'm **Akshra** 👩‍💻  
 
-- 🎓 **BTech Computer Science – 3rd Year**
+- 🎓 **BTech Computer Science – Pre final Year**
 - 💻 Focused on:-  Web Development, Java and Problem solving.
 - 🎨 Love clean UI, animations & modern layouts
 - 🤝 Open for collabs, internships & hackathons
