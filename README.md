@@ -6,6 +6,14 @@
 - 🤝 Open for collabs, internships & hackathons
 
 📩 **Email:** `akshradang@gmail.com` 
+### 📄 Resume
+
+<p align="center">
+  <a href="(https://drive.google.com/file/d/1Yb_PXrOdm4oH8fTHxBhCmic0lwVBT4gR/view?usp=sharing)" target="_blank"><strong>📄 View My Resume</strong></a>
+</p>
+
+
+---
 
 ### Techstack:-
 
