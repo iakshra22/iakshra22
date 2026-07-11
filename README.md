@@ -7,7 +7,7 @@
 
 📩 **Email:** `akshradang@gmail.com` 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Yb_PXrOdm4oH8fTHxBhCmic0lwVBT4gR/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1kF6g_X7ukP0KBT7fbY_Dbv71_t8yesAL/view?usp=sharing">
     <strong>📄 View My Resume</strong>
   </a>
 </p>
